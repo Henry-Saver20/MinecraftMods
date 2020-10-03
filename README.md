@@ -9,7 +9,7 @@ Head over to technic and use this link in your launcher to download the pack (co
  
 **Step 2.**
 Once you have installed the pack youre going to want to head to the mods folder inside of the pack.
-This can be done through the technic launcher by clicking on the settings.
+This can be done through the technic launcher by clicking on the modpack settings.
 
 **Step 3.**
 Install all the mods on this github page.
