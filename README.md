@@ -12,7 +12,7 @@ Once you have installed the pack youre going to want to head to the mods folder 
 This can be done through the technic launcher by clicking on the settings.
 
 **Step 3.**
-Install the folder on this github page with the mods in it.
+Install all the mods on this github page.
 
 **Step 4.**
 Drag all of the mods inside of that folder into the mods folder inside of your technic pack.
