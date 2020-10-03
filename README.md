@@ -15,7 +15,7 @@ This can be done through the technic launcher by clicking on the settings.
 Install all the mods on this github page.
 
 **Step 4.**
-Drag all of the mods inside of that folder into the mods folder inside of your technic pack.
+Drag all of the mods you have just downloaded into the mods folder inside of your technic pack.
 
 If the pack asks you to update when you go to launch always remember to say *NO* as it will delete
 the extra mods.
