@@ -4,7 +4,7 @@ Minecraft mods for a private server. **All content is property of their respecti
 Hi guys! Heres a quick little tutorial to help you get everything set up!
 
 **Step 1.**
-Head over to technic and use this link in your launcher to download the pack
+Head over to technic and use this link in your launcher to download the pack (copy and paste this into the technic search bar)
  http://api.technicpack.net/modpack/yaopack
  
 **Step 2.**
